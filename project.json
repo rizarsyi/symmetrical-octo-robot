@@ -1,0 +1,19 @@
+{
+    "projectName": "test-password-auth",
+    "description": "test password auth",
+    "type": "community",
+    "author": "desaioss",
+    "version": "1.0.0",
+    "authorWebsite": "https://github.com/rizarsyi/symmetrical-octo-robot",
+    "githubUri": "https://github.com/rizarsyi/symmetrical-octo-robot",
+    "license": "apache-2.0",
+    "lastUpdated": "1735519900628",
+    "tags": [
+        "password"
+    ],
+    "noDirectLaunch": [],
+    "configs": {
+        "co.acme.password": {}
+    },
+    "name": "test-password-auth"
+}
